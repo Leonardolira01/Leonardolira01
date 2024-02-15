@@ -1,16 +1,75 @@
-### Hi there 👋
+<!--título-->
 
-<!--
-**Leonardolira01/Leonardolira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou Leonardo Lira! 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Presentation -->
+
+- 💡 Realizei minha transição de carreira aos 30 anos!
+- 🚀 Apaixonado por criar, inovar e evoluir!
+- 👨🏾‍💻 Desenvolvedor Full-Stack. 
+
+  <!-- Dropdown -->
+
+<details>
+  
+  <summary>🤓 Um pouco mais sobre mim</summary>
+
+  - ⚡ Tenho 30 anos e resolvi me aventurar no mundo da programação, o que era apenas curiosidade se tornou um sonho, trabalhar com desenvolvimento web! Me considero um bom conselheiro, flexível, com disposição e capacidade de ajudar e com visão analítica para fornecer as soluções exigidas em cada situação. 
+
+  - 💬 Tenho 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuo no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance.
+</details>
+
+<div align="center">
+  <a href="https://github.com/Leonardolira01" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardolira01&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolira01&layout=compact&langs_count=6&theme=neon"/>
+</div>
+
+<div align="center">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <br>
+</div>
+<br>
+
+<!-- Links -->
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolirarh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardolira01/)
+<a href="https://wa.me/5511953923881" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:leolira177@gmail.com)
+
+---
+</div>
+
+<!--- snake --->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</a>
+</div>
+
+<!-- Portfolio -->
+## Portfólio:
+- [JavaScript - Apple Watch (Manipular as opções de cores da pulseira e tamanho).](https://leonardolira01.github.io/Apple-Watch-Projeto-Lira/)
+- [JavaScript - ÁudioBook (Esse projeto oferece aos usuários acesso a áudios previamente preparados).](https://leonardolira01.github.io/Audiobook-Projeto-Lira/)
+- [React.JS - Bloco de Notas e Áudio(Gravar uma nota usando áudio que será convertido em texto automaticamente).](https://leonardolira01.github.io/Convertext-NOTES-Projeto-Lira/)
+- [React.JS - Cardápio Digital (Com o ReactJS e VITE facilitei a interação do usuário, permitindo uma navegação intuitiva no menu).](https://leonardolira01.github.io/Cardapio-Digital-Projeto-Lira/)
+
+
+<!-- GIF -->
+<p align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
