@@ -62,9 +62,9 @@
 <!-- Portfolio -->
 ## Portfólio:
 - [JavaScript - Apple Watch (Manipular as opções de cores da pulseira e tamanho).](https://leonardolira01.github.io/Apple-Watch-Projeto-Lira/)
-- [JavaScript - ÁudioBook (Esse projeto oferece aos usuários acesso a áudios previamente preparados).](https://leonardolira01.github.io/Audiobook-Projeto-Lira/)
+- [JavaScript - AudioBook (Esse projeto oferece aos usuários acesso a áudios previamente preparados).](https://leonardolira01.github.io/Audiobook-Projeto-Lira/)
 - [React.JS - Bloco de Notas e Áudio(Gravar uma nota usando áudio que será convertido em texto automaticamente).](https://leonardolira01.github.io/Convertext-NOTES-Projeto-Lira/)
-- [React.JS - Cardápio Digital (Com o ReactJS e VITE facilitei a interação do usuário, permitindo uma navegação intuitiva no menu).](https://leonardolira01.github.io/Cardapio-Digital-Projeto-Lira/)
+- [React.JS - Cardápio Digital (ReactJS e VITE facilitei a interação do usuário, permitindo uma navegação intuitiva).](https://leonardolira01.github.io/Cardapio-Digital-Projeto-Lira/)
 
 
 <!-- GIF -->
