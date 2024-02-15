@@ -18,7 +18,7 @@
 
   - ⚡ Tenho 30 anos e resolvi me aventurar no mundo da programação, o que era apenas curiosidade se tornou um sonho, trabalhar com desenvolvimento web! Me considero um bom conselheiro, flexível, com disposição e capacidade de ajudar e com visão analítica para fornecer as soluções exigidas em cada situação. 
 
-  - 💬 Tenho 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuo no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance.
+  - 💬 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuo no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance.
 </details>
 
 <div align="center">
