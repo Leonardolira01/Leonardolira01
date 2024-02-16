@@ -7,8 +7,9 @@
 <!-- Presentation -->
 
 - 💡 Realizei minha transição de carreira aos 30 anos!
+- 🎯 React.js / TypeScript / JavaScript / Node.js
 - 🚀 Apaixonado por criar, inovar e evoluir!
-- 👨🏾‍💻 Desenvolvedor Full-Stack. 
+- 👨🏾‍💻 Desenvolvedor Full Stack. 
 
   <!-- Dropdown -->
 
@@ -73,4 +74,10 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br>
+
+Curiosidade:
+- 🛸 Um dos meus hobbies prediletos é pilotar Drone! [Clique aqui para assistir um take!](https://www.instagram.com/reel/Ck58c-Mjr5l/)
 
