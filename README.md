@@ -21,9 +21,10 @@
   - 💬 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuo no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance.
 </details>
 
+<!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/Leonardolira01" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardolira01&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Leonardolira01&theme=neon&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolira01&layout=compact&langs_count=6&theme=neon"/>
 </div>
 
