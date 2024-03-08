@@ -49,7 +49,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolirarh/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardolira01/)
 <a href="https://wa.me/5511953923881" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:leolira177@gmail.com)
+[![Gmail](https://img.shields.io/badge/leolira177@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:leolira177@gmail.com)
 
 ---
 </div>
