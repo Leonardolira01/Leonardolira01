@@ -26,7 +26,8 @@
   
   <summary>🤓 Um pouco mais sobre mim</summary>
 
-  - Aos 30 anos realizei minha transição de carreira o que era sonho se tornou realidade, trabalhar com desenvolvimento web! Tenho de bagagem, 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuando no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance. Sou curioso, apaixonado por pessoas e seus talentos, tecnologia, diversidade e inclusão! 
+  - Aos 30 anos realizei minha transição de carreira o que era sonho se tornou realidade, trabalhar com desenvolvimento web! Tenho de bagagem, 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuando no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance. Sou curioso, apaixonado por pessoas e seus talentos, tecnologia, diversidade e inclusão!
+</details>
 <br>
 <!-- GithubStats -->
 <div align="center">
