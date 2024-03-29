@@ -14,7 +14,7 @@
 ### Skills:
   - 🚧 Front-End: `Reactjs`, `HTML5`, `CSS3`, `VITE`, `Tailwind CSS`, `Bootstrap`, `Sass` e `Styled Components`;
   - 🗃️ Back-End: `Nodejs`, `Fastify`, `SQLite`, `PostgresSQL`;
-  - 📦️ Version code control: `Git & Github`;
+  - 📦️ Version code control: `Git & GitHub`;
   - 🌐 Development: `Cross-browser`;
   - 📈 Agile methodologies: `Scrum`;
   - 🎨 Interface design: `Figma`;
