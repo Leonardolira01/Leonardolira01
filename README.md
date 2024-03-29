@@ -9,7 +9,16 @@
 - 💡 Realizei minha transição de carreira aos 30 anos!
 - 🎯 React.js / TypeScript / JavaScript / Node.js
 - 🚀 Apaixonado por criar, inovar e evoluir!
-- 👨🏾‍💻 Desenvolvedor Full Stack. 
+- 👨🏾‍💻 Desenvolvedor Full Stack.
+
+### Skills:
+  - 🚧 Front-End: `Reactjs`, `HTML5`, `CSS3`, `VITE`, `Tailwind CSS`, `Bootstrap`, `Sass` e `Styled Components`;
+  - 🗃️ Back-End: `Nodejs`, `Fastify`, `SQLite`, `PostgresSQL`;
+  - 📦️ Version code control: `Git & Github`;
+  - 🌐 Development: `Cross-browser`;
+  - 📈 Agile methodologies: `Scrum`;
+  - 🎨 Interface design: `Figma`;
+  - ✅ Teste: `Jest`;
 
   <!-- Dropdown -->
 
@@ -17,11 +26,8 @@
   
   <summary>🤓 Um pouco mais sobre mim</summary>
 
-  - ⚡ Tenho 30 anos e resolvi me aventurar no mundo da programação, o que era apenas curiosidade se tornou um sonho, trabalhar com desenvolvimento web! Me considero um bom conselheiro, flexível, com disposição e capacidade de ajudar e com visão analítica para fornecer as soluções exigidas em cada situação. 
-
-  - 💬 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuo no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance.
-</details>
-
+  - Aos 30 anos realizei minha transição de carreira o que era sonho se tornou realidade, trabalhar com desenvolvimento web! Tenho de bagagem, 10 anos de experiência com Recursos Humanos focado na área de tecnologia, atuando no gerenciamento de equipes de Aquisição de Talentos (times de 15 / 20 pessoas), na construção e desenvolvimento de projetos, estratégias de Talent Acquisition e Employer Branding com foco na Análise de Indicadores / KPIs e Inbound Recruitment para garantir eficiência e alta performance. Sou curioso, apaixonado por pessoas e seus talentos, tecnologia, diversidade e inclusão! 
+<br>
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/Leonardolira01" target="_blank">
