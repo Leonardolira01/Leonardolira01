@@ -1,7 +1,7 @@
 <!--título-->
 
 ### Olá, eu sou Leonardo Lira! 👋
-
+### [![](https://visitcount.itsvg.in/api?id=Leonardolira01&label=Bem%20vindo(a)%20visitante%3A&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 <!-- Presentation -->
@@ -70,8 +70,6 @@
 - [JavaScript - AudioBook (Esse projeto oferece aos usuários acesso a áudios previamente preparados).](https://leonardolira01.github.io/Audiobook-Projeto-Lira/)
 - [React.JS - Cardápio Digital (ReactJS e VITE facilitei a interação do usuário, permitindo uma navegação intuitiva).](https://leonardolira01.github.io/Cardapio-Digital-Projeto-Lira/)
 - [React.JS - Bloco de Notas e Áudio (Gravar uma nota usando áudio que será convertido em texto automaticamente).](https://leonardolira01.github.io/Convertext-NOTES-Projeto-Lira/)
-
-### [![](https://visitcount.itsvg.in/api?id=Leonardolira01&label=Seja%20bem%20vindo(a)%2C%20visitante%3A%20&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- GIF -->
 <p align="center">
