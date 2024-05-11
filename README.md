@@ -14,7 +14,7 @@
 ### Skills:
   - 🚧 **Front-End:** `Reactjs`, `JavaScript`, `HTML5`, `CSS3`, `VITE`, `Tailwind CSS`, `Bootstrap`, `Sass` e `Styled Components`;
   - 🗃️ **Back-End:** `Nodejs`, `Express`, `Insomnia` e `Fastify`;
-  - 📊 **Banco de dados:** `SQLite`, `PostgresSQL` e `Beekeeper - SGBD`;
+  - 📊 **Banco de dados:** `SQLite`, `PostgresSQL`, `MongoDB` e `Beekeeper - SGBD`;
   - 📦️ **Version code control:** `Git`, `GitHub`, `GitHub Actions (CI/CD)`;
   - 🌐 **Development:** `Cross-browser`;
   - 📈 **Agile methodologies:** `Scrum`;
