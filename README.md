@@ -3,8 +3,9 @@
 
 ### [![](https://visitcount.itsvg.in/api?id=Leonardolira01&label=Bem%20vindo(a)%20visitante%3A&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Presentation -->
+<!--
 <img src = https://github.com/Leonardolira01/Leonardolira01/assets/67601166/3b23bcdc-7b77-4e14-bf0e-3450c0a67612 width = "300px" align = "right" >
+-->
 
 - 💡 Realizei minha transição de carreira aos 30 anos!
 - 🎯 React.js / TypeScript / JavaScript / Node.js
