@@ -1,5 +1,5 @@
 <!--título-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Leonardo+Lira!;Tenho+30+anos;Moro+na+capital+de+São+Paulo,+SP;Sou+desenvolvedor+Full-Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Leonardo+Lira!;Tenho+30+anos;Moro+na+capital+de+São+Paulo,+SP;Sou+desenvolvedor+Full-Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### [![](https://visitcount.itsvg.in/api?id=Leonardolira01&label=Bem%20vindo(a)%20visitante%3A&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
@@ -33,9 +33,14 @@
 
 <!-- GithubStats -->
 <div align="center">
-  <a href="https://github.com/Leonardolira01" target="_blank">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Leonardolira01&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolira01&layout=compact&langs_count=6&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardolira01&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Lira github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolira01&layout=compact&hide_border=true&title_color=15e5a6&text_color=15e5a6&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonardolira01&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
   </a>
 </div>
 
@@ -67,12 +72,7 @@
 </div>
 
 <!-- Portfolio -->
-### Projetos Pessoais:
-- [JavaScript - Apple Watch (Manipular as opções de cores da pulseira e tamanho).](https://leonardolira01.github.io/Apple-Watch-Projeto-Lira/)
-- [JavaScript - AudioBook (Esse projeto oferece aos usuários acesso a áudios previamente preparados).](https://leonardolira01.github.io/Audiobook-Projeto-Lira/)
-- [React.JS - Cardápio Digital (ReactJS e VITE facilitei a interação do usuário, permitindo uma navegação intuitiva).](https://leonardolira01.github.io/Cardapio-Digital-Projeto-Lira/)
-- [React.JS - Bloco de Notas e Áudio (Gravar uma nota usando áudio que será convertido em texto automaticamente).](https://leonardolira01.github.io/Convertext-NOTES-Projeto-Lira/)
-
+### [Clique aqui para acessar o meu Portifólio](https://leonardolira01.github.io/Leonardo-Lira-Portifolio/)
 
 <!-- GIF -->
 <p align="center">
